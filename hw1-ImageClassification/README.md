@@ -10,7 +10,6 @@ Reproducing Submission
     | pytorch     | 1.3.1   |
     | torchvision | 0.4.2   |
     | pillow      | 6.2.0   |
-    | matplotlib  | 3.1.1   |
 
 2. Clone the [repo](https://github.com/samuelyutt/Selected-Topics-in-Visual-Recognition-using-Deep-Learning-course.git) from GitHub
     ```
