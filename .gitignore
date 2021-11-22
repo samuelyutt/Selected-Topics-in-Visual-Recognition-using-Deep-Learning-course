@@ -1,3 +1,71 @@
+# hw1
+hw1-ImageClassification/2021VRDL_HW1_datasets/
+
+# hw2
+hw2-ObjectDetection/datasets/
+hw2-ObjectDetection/checkpoints/
+
+# Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
+hw2-ObjectDetection/**/*.jpg
+hw2-ObjectDetection/**/*.jpeg
+hw2-ObjectDetection/**/*.png
+hw2-ObjectDetection/**/*.bmp
+hw2-ObjectDetection/**/*.tif
+hw2-ObjectDetection/**/*.tiff
+hw2-ObjectDetection/**/*.heic
+hw2-ObjectDetection/**/*.JPG
+hw2-ObjectDetection/**/*.JPEG
+hw2-ObjectDetection/**/*.PNG
+hw2-ObjectDetection/**/*.BMP
+hw2-ObjectDetection/**/*.TIF
+hw2-ObjectDetection/**/*.TIFF
+hw2-ObjectDetection/**/*.HEIC
+hw2-ObjectDetection/**/*.mp4
+hw2-ObjectDetection/**/*.mov
+hw2-ObjectDetection/**/*.MOV
+hw2-ObjectDetection/**/*.avi
+hw2-ObjectDetection/**/*.data
+hw2-ObjectDetection/**/*.json
+hw2-ObjectDetection/**/*.cfg
+!hw2-ObjectDetection/**/setup.cfg
+!hw2-ObjectDetection/**/cfg/yolov3*.cfg
+
+hw2-ObjectDetection/**/storage.googleapis.com
+hw2-ObjectDetection/**/runs/*
+hw2-ObjectDetection/**/data/*
+!hw2-ObjectDetection/**/data/hyps/*
+!hw2-ObjectDetection/**/data/images/zidane.jpg
+!hw2-ObjectDetection/**/data/images/bus.jpg
+!hw2-ObjectDetection/**/data/*.sh
+
+hw2-ObjectDetection/**/results*.csv
+
+# Datasets -------------------------------------------------------------------------------------------------------------
+hw2-ObjectDetection/**/coco/
+hw2-ObjectDetection/**/coco128/
+hw2-ObjectDetection/**/VOC/
+
+# MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
+hw2-ObjectDetection/**/*.m~
+hw2-ObjectDetection/**/*.mat
+hw2-ObjectDetection/**/!targets*.mat
+
+# Neural Network weights -----------------------------------------------------------------------------------------------
+hw2-ObjectDetection/**/*.weights
+hw2-ObjectDetection/**/*.pt
+hw2-ObjectDetection/**/*.pb
+hw2-ObjectDetection/**/*.onnx
+hw2-ObjectDetection/**/*.mlmodel
+hw2-ObjectDetection/**/*.torchscript
+hw2-ObjectDetection/**/*.tflite
+hw2-ObjectDetection/**/*.h5
+hw2-ObjectDetection/**/*_saved_model/
+hw2-ObjectDetection/**/*_web_model/
+hw2-ObjectDetection/**/darknet53.conv.74
+hw2-ObjectDetection/**/yolov3-tiny.conv.15
+
+#
+
 # macOS file system files
 **/.DS_Store
 
