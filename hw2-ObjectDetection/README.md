@@ -73,7 +73,7 @@ Reproducing Training
     $ python prepare.py
     ```
 
-7. Prepare for testing data copying data
+7. Prepare for testing data by copying data
     ```
     $ cd hw2-ObjectDetection/datasets/svhn/origin/
     $ unzip test.zip
