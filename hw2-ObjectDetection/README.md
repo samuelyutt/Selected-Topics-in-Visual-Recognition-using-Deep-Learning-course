@@ -4,6 +4,10 @@
 - [YOLOv5](https://github.com/ultralytics/yolov5)
 - [Street-View-House-Numbers-Detection](https://github.com/chia56028/Street-View-House-Numbers-Detection)
 
+Utilities
+--
+You can download pretrained weights, configuration files, and svhn datasets [here](https://drive.google.com/drive/folders/1eSRBqjNiv8d8feY4nC_fiUk8M_Mji9-R?usp=sharing)
+
 Reproducing Submission
 --
 1. Download or copy [inference.py](https://colab.research.google.com/drive/1z0spJDJvMnFap-RAFbM8qMNmKQWyJ723?usp=sharing) and open it in [Google Colab](https://colab.research.google.com)
