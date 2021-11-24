@@ -10,7 +10,7 @@ You can download pretrained weights, configuration files, and svhn datasets [her
 
 Reproducing Submission
 --
-1. Download or copy [inference.py](https://colab.research.google.com/drive/1z0spJDJvMnFap-RAFbM8qMNmKQWyJ723?usp=sharing) and open it in [Google Colab](https://colab.research.google.com)
+1. Download or copy [inference.ipynb](https://colab.research.google.com/drive/1z0spJDJvMnFap-RAFbM8qMNmKQWyJ723?usp=sharing) and open it in [Google Colab](https://colab.research.google.com)
 2. Execute every cell in the notebook
 3. You will find the submission file `answer.json` in `src/yolov5/`
 
