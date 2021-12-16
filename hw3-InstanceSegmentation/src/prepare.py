@@ -11,8 +11,10 @@ VAL_CNT = 1
 
 
 def main():
-    in_data_types = ['train', 'test']
-    out_data_types = ['train', 'val', 'test']
+    # in_data_types = ['train', 'test']
+    # out_data_types = ['train', 'val', 'test']
+    in_data_types = ['train']
+    out_data_types = ['train', 'val']
     annotataion_dict = {
         out_data_type: {
             'images': [],
