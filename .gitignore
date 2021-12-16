@@ -64,7 +64,132 @@ hw2-ObjectDetection/**/*_web_model/
 hw2-ObjectDetection/**/darknet53.conv.74
 hw2-ObjectDetection/**/yolov3-tiny.conv.15
 
-#
+# hw3
+# Byte-compiled / optimized / DLL files
+hw3-InstanceSegmentation/**/__pycache__/
+hw3-InstanceSegmentation/**/*.py[cod]
+hw3-InstanceSegmentation/**/*$py.class
+
+# C extensions
+hw3-InstanceSegmentation/**/*.so
+
+# Distribution / packaging
+hw3-InstanceSegmentation/**/.Python
+hw3-InstanceSegmentation/**/build/
+hw3-InstanceSegmentation/**/develop-eggs/
+hw3-InstanceSegmentation/**/dist/
+hw3-InstanceSegmentation/**/downloads/
+hw3-InstanceSegmentation/**/eggs/
+hw3-InstanceSegmentation/**/.eggs/
+hw3-InstanceSegmentation/**/lib/
+hw3-InstanceSegmentation/**/lib64/
+hw3-InstanceSegmentation/**/parts/
+hw3-InstanceSegmentation/**/sdist/
+hw3-InstanceSegmentation/**/var/
+hw3-InstanceSegmentation/**/wheels/
+hw3-InstanceSegmentation/**/*.egg-info/
+hw3-InstanceSegmentation/**/.installed.cfg
+hw3-InstanceSegmentation/**/*.egg
+hw3-InstanceSegmentation/**/MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+hw3-InstanceSegmentation/**/*.manifest
+hw3-InstanceSegmentation/**/*.spec
+
+# Installer logs
+hw3-InstanceSegmentation/**/pip-log.txt
+hw3-InstanceSegmentation/**/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+hw3-InstanceSegmentation/**/htmlcov/
+hw3-InstanceSegmentation/**/.tox/
+hw3-InstanceSegmentation/**/.coverage
+hw3-InstanceSegmentation/**/.coverage.*
+hw3-InstanceSegmentation/**/.cache
+hw3-InstanceSegmentation/**/nosetests.xml
+hw3-InstanceSegmentation/**/coverage.xml
+hw3-InstanceSegmentation/**/*.cover
+hw3-InstanceSegmentation/**/.hypothesis/
+hw3-InstanceSegmentation/**/.pytest_cache/
+
+# Translations
+hw3-InstanceSegmentation/**/*.mo
+hw3-InstanceSegmentation/**/*.pot
+
+# Django stuff:
+hw3-InstanceSegmentation/**/*.log
+hw3-InstanceSegmentation/**/local_settings.py
+hw3-InstanceSegmentation/**/db.sqlite3
+
+# Flask stuff:
+hw3-InstanceSegmentation/**/instance/
+hw3-InstanceSegmentation/**/.webassets-cache
+
+# Scrapy stuff:
+hw3-InstanceSegmentation/**/.scrapy
+
+# Sphinx documentation
+hw3-InstanceSegmentation/**/docs/_build/
+
+# PyBuilder
+hw3-InstanceSegmentation/**/target/
+
+# Jupyter Notebook
+hw3-InstanceSegmentation/**/.ipynb_checkpoints
+
+# pyenv
+hw3-InstanceSegmentation/**/.python-version
+
+# celery beat schedule file
+hw3-InstanceSegmentation/**/celerybeat-schedule
+
+# SageMath parsed files
+hw3-InstanceSegmentation/**/*.sage.py
+
+# Environments
+hw3-InstanceSegmentation/**/.env
+hw3-InstanceSegmentation/**/.venv
+hw3-InstanceSegmentation/**/env/
+hw3-InstanceSegmentation/**/venv/
+hw3-InstanceSegmentation/**/ENV/
+hw3-InstanceSegmentation/**/env.bak/
+hw3-InstanceSegmentation/**/venv.bak/
+
+# Spyder project settings
+hw3-InstanceSegmentation/**/.spyderproject
+hw3-InstanceSegmentation/**/.spyproject
+
+# Rope project settings
+hw3-InstanceSegmentation/**/.ropeproject
+
+# mkdocs documentation
+hw3-InstanceSegmentation/**/site
+
+# mypy
+hw3-InstanceSegmentation/**/.mypy_cache/
+
+# hw3-InstanceSegmentation/**/data/
+# hw3-InstanceSegmentation/**/data
+# !hw3-InstanceSegmentation/data/nuclei/test/*
+hw3-InstanceSegmentation/**/.vscode
+hw3-InstanceSegmentation/**/.idea
+hw3-InstanceSegmentation/**/.DS_Store
+
+# custom
+hw3-InstanceSegmentation/**/*.pkl
+hw3-InstanceSegmentation/**/*.pkl.json
+hw3-InstanceSegmentation/**/*.log.json
+hw3-InstanceSegmentation/**/work_dirs/
+
+# Pytorch
+hw3-InstanceSegmentation/**/*.pth
+hw3-InstanceSegmentation/**/*.py~
+hw3-InstanceSegmentation/**/*.sh~
+
+
+# ------
 
 # macOS file system files
 **/.DS_Store
