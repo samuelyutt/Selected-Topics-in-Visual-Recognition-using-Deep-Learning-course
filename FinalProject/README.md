@@ -17,8 +17,7 @@ Reproducing Submission
 2. Clone the [repo](https://github.com/samuelyutt/Selected-Topics-in-Visual-Recognition-using-Deep-Learning-course.git) from GitHub
     ```
     $ git clone https://github.com/samuelyutt/Selected-Topics-in-Visual-Recognition-using-Deep-Learning-course.git
-    $ cd Selected-Topics-in-Visual-Recognition-using-Deep-Learning-course
-/FinalProject
+    $ cd Selected-Topics-in-Visual-Recognition-using-Deep-Learning-course/FinalProject
     ```
 
 3. Download the [pretrained models](https://drive.google.com/file/d/1N5D4QcQyC7eZ2g3E4ZyBYTa32kfE2sC-/view?usp=sharing) and move them into `checkpoints/RELEASE/`
