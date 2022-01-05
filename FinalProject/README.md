@@ -28,11 +28,11 @@ Reproducing Submission
     ```
     FinalProject/
     ├── data/
-    │   ├── rsna-pneumonia-detection-challenge/
-    │   │   ├── stage_2_test_images/
-    │   │   ├── stage_2_train_images/
-    │   │   ├── stage_2_train_labels.csv
-    │   │   └── ...
+    │   └── rsna-pneumonia-detection-challenge/
+    │       ├── stage_2_test_images/
+    │       ├── stage_2_train_images/
+    │       ├── stage_2_train_labels.csv
+    │       └── ...
     ├── checkpoints/
     │   └── RELEASE/
     │       └── fasterrcnn_resnet50_fpn_pneumonia_detection_size500_dropped_clahe_e50.pth
