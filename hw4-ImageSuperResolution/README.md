@@ -1,5 +1,12 @@
 # HW4 Image Super Resolution
 
+**Note that this work referred to the following sources:**
+- [EDSR-PyTorch](https://github.com/sanghyun-son/EDSR-PyTorch)
+
+**Alse note that:**
+- The model weights is small enough to be uploaded to the GitHub repo, so you don't have to download is seperately. However, you can still download it [here](https://drive.google.com/file/d/180Ru8FJ5_ZwXCRqd86yjO389xw9gSjVH/view?usp=sharing).
+- The training data can be found [here](https://drive.google.com/file/d/1MG4NhjD_pMyHmca5PqtHtn3KSRU4XIZu/view?usp=sharing).
+
 Reproducing Submission
 --
 1. Install requirements
