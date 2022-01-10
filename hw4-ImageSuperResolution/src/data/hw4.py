@@ -1,6 +1,7 @@
 import os
 from data import srdata
 
+
 class HW4(srdata.SRData):
     def __init__(self, args, name='HW4', train=True, benchmark=False):
         data_range = [r.split('-') for r in args.data_range.split('/')]
@@ -28,5 +29,5 @@ class HW4(srdata.SRData):
         super(HW4, self)._set_filesystem(dir_data)
         self.dir_hr = os.path.join(self.apath, 'HW4_train_HR')
         self.dir_lr = os.path.join(self.apath, 'HW4_train_LR_bicubic')
-        if self.input_large: self.dir_lr += 'L'
-
+        if self.input_large:
+            self.dir_lr += 'L'
