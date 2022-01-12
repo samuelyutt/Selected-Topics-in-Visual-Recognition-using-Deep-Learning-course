@@ -4,8 +4,8 @@
 - [EDSR-PyTorch](https://github.com/sanghyun-son/EDSR-PyTorch)
 
 **Alse note that:**
-- The model weights is small enough to be uploaded to the GitHub repo, so you don't have to download is seperately. However, you can still download it [here](https://drive.google.com/file/d/180Ru8FJ5_ZwXCRqd86yjO389xw9gSjVH/view?usp=sharing).
-- The training data can be found [here](https://drive.google.com/file/d/1MG4NhjD_pMyHmca5PqtHtn3KSRU4XIZu/view?usp=sharing).
+- The model weights is small enough to be uploaded to the GitHub repo, so you don't have to download it seperately. However, you can still find it [here](https://drive.google.com/file/d/180Ru8FJ5_ZwXCRqd86yjO389xw9gSjVH/view?usp=sharing).
+- The processed training data can be downloaded from [here](https://drive.google.com/file/d/1MG4NhjD_pMyHmca5PqtHtn3KSRU4XIZu/view?usp=sharing).
 
 Reproducing Submission
 --
@@ -24,7 +24,7 @@ Reproducing Submission
 2. Clone the [repo](https://github.com/samuelyutt/Selected-Topics-in-Visual-Recognition-using-Deep-Learning-course.git) from GitHub
     ```
     $ git clone https://github.com/samuelyutt/Selected-Topics-in-Visual-Recognition-using-Deep-Learning-course.git
-    $ cd hw4-ImageSuperResolution/src
+    $ cd Selected-Topics-in-Visual-Recognition-using-Deep-Learning-course/hw4-ImageSuperResolution/src
     ```
 
 3. Execute every cell in `inference.ipynb`
