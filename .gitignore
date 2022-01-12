@@ -188,6 +188,9 @@ hw3-InstanceSegmentation/**/*.pth
 hw3-InstanceSegmentation/**/*.py~
 hw3-InstanceSegmentation/**/*.sh~
 
+# hw4
+# Datasets
+hw4-ImageSuperResolution/**/dataset/
 
 # ------
 
